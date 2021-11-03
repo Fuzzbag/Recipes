@@ -1,0 +1,26 @@
+body{background-image: url(../Recipes/images/background.jpg);
+background-size: cover;}
+.mini-header{
+    background-color: tomato;
+    text-align: center;
+    font-size: 50px;
+    }
+img{
+    height: 500px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a {
+    text-align: center;
+    display: block;
+    font-size: 35px;  
+}
+p{text-align: center;}
+.little-header{
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
