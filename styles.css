@@ -1,5 +1,8 @@
+* {
+    border: 2px solid red;
+}
+
 body{background-image: url(../Recipes/images/background.jpg);
-background-size: cover;
 }
 
 .mini-header{
